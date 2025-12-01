@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of ResgateJá",
+  "description": "Aplicativo de solicitação de ambulância e triagem de emergência com IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
